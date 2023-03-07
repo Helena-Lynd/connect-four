@@ -18,7 +18,7 @@ git clone git@github.com:Helena-Lynd/connect-four-game.git
 ### Executing
 - Open the project in IntelliJ
 - Play the given run configuration or the file "ConnectFourGUI.java"
-- The game will end once a player wins, as shown below.
+- The game will end once a player wins, as shown below.<br>
 ![ProgramResults](https://github.com/Helena-Lynd/connect-four-game/blob/main/connect-four-finished.png)
 ## Modifying
 - 
