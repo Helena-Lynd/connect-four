@@ -21,7 +21,7 @@ git clone git@github.com:Helena-Lynd/connect-four-game.git
 - The game will end once a player wins, as shown below.<br>
 ![ProgramResults](https://github.com/Helena-Lynd/connect-four-game/blob/main/connect-four-finished.png)
 ## Modifying
-- 
+- You can make custom pieces by replacing the files "src/connectfour/gui/p1black.png" and "src/connectfour/gui/p2red.png" with your preferred images. Do not change the names of these files, as the program uses the path of the images to load them.
 ## Common Errors
 "Imports could not be resolved"
 - Ensure that your JDK is configured for the project
