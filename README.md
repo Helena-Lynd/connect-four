@@ -4,7 +4,7 @@ A Java program that creates a GUI for users to play the game Connect Four.
 ![ProgramResults](https://github.com/Helena-Lynd/connect-four-game/blob/main/connect-four-playing.png)
 
 ## Description<br>
-
+The game of connect four can be played locally with another person. The first person to click a column will be player one, the second person will be player two. The program displays which player's turn it is, how many turns have been taken in total, and the status of the game (NOT_OVER if the game is in progress, PLAYERX_WON when a player wins).
 
 ## Getting Started<br>
 ### Dependencies
